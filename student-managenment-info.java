@@ -18,7 +18,7 @@ class BookManagement {
         author = new String[numberOfBooks];
         year = new int[numberOfBooks];
 
-        // Input book detailsbbbbbbb
+        // 
         for (int i = 0; i < numberOfBooks; i++) {
             System.out.println("Enter details for book " + (i + 1) + ": ");
             System.out.print("Title (numeric code): ");
